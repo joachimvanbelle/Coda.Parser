@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Coda.Parser.Lib/">
+    <Project Path="Coda.Parser.Lib/coda.Parser.Lib.csproj" />
+  </Folder>
+  <Folder Name="/Coda.Parser.tests/">
+    <Project Path="Coda.Parser.tests/coda.Parser.Tests.csproj" />
+  </Folder>
+</Solution>
